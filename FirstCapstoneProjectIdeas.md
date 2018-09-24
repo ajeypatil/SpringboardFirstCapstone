@@ -45,4 +45,12 @@ b. What is co-relation between airport and day of week of flight that got delaye
 c. What is co-relation between delay time and airport and day of week ?
 d.  What is co-relation between diverted flights and airport and day of week
 e. Categorize the delay reason for flights at airport and numbers of delays per delay reason
-f. Based on number of delays per delay reason and number of delays per day of week, predict best airport for minimum flight delay and cancellations. 
+f. Based on number of delays per delay reason and number of delays per day of week, predict best airport for minimum flight delay and cancellations.
+
+9. Air Quality Analysis
+
+The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located on the field in a significantly polluted area, at road level
+
+Problem : Find days of week and month of year when Air Pollution is highest
+
+ 
